@@ -1,6 +1,13 @@
-# This is a cookbook for downstream analysis from  Geomosaic pipeline [Corso D. et al, 2024]
+# This is a cookbook for downstream analysis from  Geomosaic pipeline [Corso D. et al, 2026]
 # 🧬 Geomosaic Downstream Analysis Notebook
 ---
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+
+[![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](https://www.donatogiovannelli.com)
+[![funded-by-erc](https://img.shields.io/badge/Funded%20by-ERC-ff6400.svg)](https://erc.europa.eu/homepage)
+[![project-coevolve](https://img.shields.io/badge/Project-ERC%20CoEvolve-000fa9.svg)](https://www.coevolve.eu/)
 
 ### 👤 Authorship
 * **Edoardo Taccaliti** ([edoardotaccaliti@gmail.com](mailto:edoardotaccaliti@gmail.com))
