@@ -11,16 +11,17 @@ dependencies:
   - r-pheatmap
   - r-stringr
   - r-circlize
-  - r-igraph       # Moved from R-install to Conda
-  - r-png          # Moved from R-install to Conda
-  - r-data.table   # Moved from R-install to Conda
-  - r-fs           # Moved from R-install to Conda
+  - r-igraph
+  - r-png       
+  - r-data.table
+  - r-fs   
   - r-ggrepel
   - r-svglite
-  - bioconductor-complexheatmap # Available on Bioconda!
-  - bioconductor-phyloseq       # Available on Bioconda!
-  - bioconductor-biostrings     # Available on Bioconda!
-  - bioconductor-xvector        # Available on Bioconda!
+  - r-patchwork
+  - bioconductor-complexheatmap
+  - bioconductor-phyloseq
+  - bioconductor-biostrings
+  - bioconductor-xvector    
   - bioconductor-microbiome
   - jupyter_client
   - jupyter_core

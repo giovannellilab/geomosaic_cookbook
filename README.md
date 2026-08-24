@@ -20,7 +20,7 @@
 ### Set up
 Create the environment
 ```bash 
-mamba env create -f env.yaml 
+mamba env create -f environemnt.yaml 
 
 ```
 Activate the environemnt:
@@ -41,5 +41,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 > **Note:** Please cite the original Geomosaic paper if using this pipeline for published research.
 
-Corso D., et al., "Geomosaic: a flexible metagenomic pipeline combining biological and geochemical data to outline biosphere and geosphere interactions."
+Corso D., et al., "Geomosaic: a flexible bioinformatics platform integrating complementary metagenomic analyses from sequencing reads to genomes. "
 
