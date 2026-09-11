@@ -20,3 +20,4 @@ concat.py
 notebooks/geomosaic_cookbook.ipynb
 hmm_table_template.tsv
 parse_bigecyhmm.py
+scripts/helper_*
