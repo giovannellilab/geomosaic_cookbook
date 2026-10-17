@@ -1,8 +1,9 @@
-!tables/gm_gathering/kaiju/family_reads.tsv
-!tables/gm_gathering/kaiju/order_reads.tsv
+!tables/gm_gathering/
+!tables/gm_gathering/kaiju/*
+!tables/gm_gathering/redox_metal_plasticity_index/*
 
-tables/gm_gathering
 
+!tables/cr18_env_geomosaicPlot.csv
 tables/*.csv
 tables/*.tsv
 tables/heatmaps*
