@@ -1,0 +1,26 @@
+MAGs	domain	phylum	class	order	family	genus	species	classification
+mag_1	Bacteria	Pseudomonadota	Alphaproteobacteria	Dongiales	Dongiaceae			d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Dongiales;f__Dongiaceae;g__;s__
+mag_10	Bacteria	KSB1	UBA2214	DRLW01	QEVD01	JABWAN01		d__Bacteria;p__KSB1;c__UBA2214;o__DRLW01;f__QEVD01;g__JABWAN01;s__
+mag_11	Bacteria	Methylomirabilota	Methylomirabilia	Rokubacteriales	CSP1-6	JACQCL01		d__Bacteria;p__Methylomirabilota;c__Methylomirabilia;o__Rokubacteriales;f__CSP1-6;g__JACQCL01;s__
+mag_12	Bacteria	Hydrogenedentota	Hydrogenedentia	Hydrogenedentiales	SLHB01	JABWCD01		d__Bacteria;p__Hydrogenedentota;c__Hydrogenedentia;o__Hydrogenedentiales;f__SLHB01;g__JABWCD01;s__
+mag_13	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	UBA8639	JAALKI01		d__Bacteria;p__Nitrospirota;c__Nitrospiria;o__Nitrospirales;f__UBA8639;g__JAALKI01;s__
+mag_14	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira_C		d__Bacteria;p__Nitrospirota;c__Nitrospiria;o__Nitrospirales;f__Nitrospiraceae;g__Nitrospira_C;s__
+mag_15	Bacteria	CLD3	CLD3	SB21	SB21			d__Bacteria;p__CLD3;c__CLD3;o__SB21;f__SB21;g__;s__
+mag_16	Bacteria	Actinomycetota	Aquicultoria					d__Bacteria;p__Actinomycetota;c__Aquicultoria;o__;f__;g__;s__
+mag_17	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	OLB17		d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae;g__OLB17;s__
+mag_18	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae			d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__;s__
+mag_19	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	Villigracilaceae	Villigracilis		d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__Villigracilaceae;g__Villigracilis;s__
+mag_2	Bacteria	KSB1	UBA2214	DRLW01	QEVD01	JABWAN01		d__Bacteria;p__KSB1;c__UBA2214;o__DRLW01;f__QEVD01;g__JABWAN01;s__
+mag_20	Bacteria	Armatimonadota	UBA10988	UBA10988	UBA10988			d__Bacteria;p__Armatimonadota;c__UBA10988;o__UBA10988;f__UBA10988;g__;s__
+mag_21	Bacteria	Acidobacteriota	Terriglobia	Terriglobales				d__Bacteria;p__Acidobacteriota;c__Terriglobia;o__Terriglobales;f__;g__;s__
+mag_22	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Parvularculaceae	JACKIL01		d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__Parvularculaceae;g__JACKIL01;s__
+mag_23	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thermohalobaculum		d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Thermohalobaculum;s__
+mag_24	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomicrobium		d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomicrobium;s__
+mag_25	Bacteria	Acidobacteriota	Blastocatellia	RBC074	RBC074			d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__RBC074;f__RBC074;g__;s__
+mag_3	Bacteria	Desulfobacterota_E	Deferrimicrobia	Deferrimicrobiales	Deferrimicrobiaceae			d__Bacteria;p__Desulfobacterota_E;c__Deferrimicrobia;o__Deferrimicrobiales;f__Deferrimicrobiaceae;g__;s__
+mag_4	Bacteria	Acidobacteriota	Blastocatellia	RBC074	RBC074	JAJVID01		d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__RBC074;f__RBC074;g__JAJVID01;s__
+mag_5	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Gallionellaceae	Gallionella		d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Gallionellaceae;g__Gallionella;s__
+mag_6	Bacteria	KSB1	UBA2214	DRLW01	QEVD01	DSNU01		d__Bacteria;p__KSB1;c__UBA2214;o__DRLW01;f__QEVD01;g__DSNU01;s__
+mag_8	Bacteria	Acidobacteriota	Terriglobia	Acidoferrales	UBA7541			d__Bacteria;p__Acidobacteriota;c__Terriglobia;o__Acidoferrales;f__UBA7541;g__;s__
+mag_9	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae			d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__;s__
+mag_7	Archaea	Thermoproteota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	Nitrososphaera		d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrososphaeraceae;g__Nitrososphaera;s__

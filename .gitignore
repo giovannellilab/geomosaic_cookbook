@@ -2,6 +2,11 @@
 !tables/gm_gathering/kaiju/*
 !tables/gm_gathering/redox_metal_plasticity_index/*
 
+tables/gm_gathering/mags_gtdbtk/*
+!tables/gm_gathering/mags_gtdbtk/geomosaic_samples/
+
+tables/gm_gathering/mags_hmmsearch/CR18_*/
+!tables/gm_gathering/mags_hmmsearch/CR18_*/mags.tsv
 
 !tables/cr18_env_geomosaicPlot.csv
 tables/*.csv
@@ -10,7 +15,9 @@ tables/heatmaps*
 tables/kaiju/
 
 table_mars/
-figures/
+figures/*
+!figures/test_*
+!figures
 
 checks.rmd
 
