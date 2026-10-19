@@ -1,0 +1,157 @@
+Element	Relevance	Cycle	Pathway	pathway name	gene	gene_name	key_gene	energyRole	biogeoSubstrate	Metal	KO
+Arsenic	Biogeochemistry	Arsenic	AsOx	Arsenite oxidation	aoxA	arsenite oxidase small subunit [EC:1.20.2.1 1.20.9.1]	yes	D	Arsenite	Mo	K08355
+Arsenic	Biogeochemistry	Arsenic	AsOx	Arsenite oxidation	aoxB	arsenite oxidase large subunit [EC:1.20.2.1 1.20.9.1]	yes	D	Arsenite	Mo	K08356
+Arsenic	Biogeochemistry	Arsenic	AsRed	Dissimilatory arsenic reduction (arsRBC or arsRDABC)	arsC	arsenate reductase	yes	A	Arsenate	Mo	K00537
+Arsenic	Biogeochemistry	Arsenic	AsRed	Dissimilatory arsenic reduction (arsRBC or arsRDABC)	arsC	arsenate reductase  (glutaredoxin)	yes	A	Arsenate	Mo	K03741
+Carbon	Biogeochemistry	Methane	Methanogenesis	Methanogenesis, CO2 => methane	fwdA, fmdA	formylmethanofuran dehydrogenase subunit A [EC:1.2.7.12]	yes	D	Hydrogen	Mo, W	K00200
+Carbon	Biogeochemistry	Methane	Methanogenesis	Methanogenesis, CO2 => methane	fwdB, fmdB	formylmethanofuran dehydrogenase subunit B [EC:1.2.7.12]	yes	D	Hydrogen	Mo, W	K00201
+Carbon	Biogeochemistry	Methane	Methanogenesis	Methanogenesis, CO2 => methane	fwdD, fmdD	formylmethanofuran dehydrogenase subunit D [EC:1.2.7.12]	yes	D	Hydrogen	Mo, W	K00203
+Carbon	Biogeochemistry	Methane	Methanogenesis	Methanogenesis, CO2 => methane	fwdE, fmdE	formylmethanofuran dehydrogenase subunit E [EC:1.2.7.12]	yes	D	Hydrogen	Mo, W	K11261
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methane -> methanol	pmoA-amoA	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	yes	A	Ammonia/Methane	Cu	K10944
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methane -> methanol	pmoB-amoB	methane/ammonia monooxygenase subunit B	yes	A	Ammonia/Methane	Cu	K10945
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methane -> methanol	pmoC-amoC	methane/ammonia monooxygenase subunit C	yes	A	Ammonia/Methane	Cu	K10946
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methane -> methanol	mmoX	methane monooxygenase component A alpha chain [EC:1.14.13.25]	yes	A	Methane	Cu	K16157
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methane -> methanol	mmoY	 	yes	A	Methane	Cu	K16158
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methane -> methanol	mmoC	methane monooxygenase component C [EC:1.14.13.25]	yes	A	Methane	Cu	K16161
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methanol -> Formaldehyde	mdh1, mxaF	methanol dehydrogenase (cytochrome c) subunit 1 [EC:1.1.2.7]	yes	A	Methanol	Fe	K14028
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methanol -> Formaldehyde	mdh2, mxaI	methanol dehydrogenase (cytochrome c) subunit 2 [EC:1.1.2.7]	yes	A	Methanol	Fe	K14029
+Carbon	Biogeochemistry	Methane	MethOx	Methane oxidation, methanol -> Formaldehyde	xoxF	lanthanide-dependent methanol dehydrogenase [EC:1.1.2.10]	yes	A	Methanol	Ln	K23995
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	mqo	malate dehydrogenase (quinone) [EC:1.1.5.4]	yes	D	Organic carbon	//	K00116
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	OGDH, sucA	2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	yes	D	Organic carbon	//	K00164
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	SDHA, SDH1	succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]	yes	D	Organic carbon	//	K00234
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	SDHB, SDH2	succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]	yes	D	Organic carbon	Fe	K00235
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	SDHC, SDH3	succinate dehydrogenase (ubiquinone) cytochrome b560 subunit	yes	D	Organic carbon	Fe	K00236
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	SDHD, SDH4	succinate dehydrogenase (ubiquinone) membrane anchor subunit	yes	D	Organic carbon	Fe	K00237
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	sdhA, frdA	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	yes	D	Organic carbon	Fe	K00239
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	sdhB, frdB	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	yes	D	Organic carbon	Fe	K00240
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	sdhC, frdC	succinate dehydrogenase / fumarate reductase, cytochrome b subunit	yes	D	Organic carbon	Fe	K00241
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	sdhD, frdD	succinate dehydrogenase / fumarate reductase, membrane anchor subunit	yes	D	Organic carbon	Fe	K00242
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	frdA	fumarate reductase flavoprotein subunit [EC:1.3.5.4]	yes	D	Organic carbon	Fe	K00244
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	frdB	fumarate reductase iron-sulfur subunit [EC:1.3.5.4]	yes	D	Organic carbon	Fe	K00245
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	frdC	fumarate reductase subunit C	yes	D	Organic carbon	Fe	K00246
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	frdD	fumarate reductase subunit D	yes	D	Organic carbon	Fe	K00247
+Carbon	Biogeochemistry	Heterotrophy	TCA	TCA cycle	DLST, sucB	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]	yes	D	Organic carbon	//	K00658
+Carbon	Biogeochemistry	Carbon fixation	WL	Wood-Ljungdahl pathway	cdhC	acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit beta [EC:2.3.1.169 1.2.7.4]	yes	A	CO2	NiCu, Ni	K00193
+Carbon	Biogeochemistry	Carbon fixation	WL	Wood-Ljungdahl pathway	cdhD, acsD	acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit delta [EC:2.1.1.245 1.2.7.4]	yes	A	CO2	NiCu, Ni	K00194
+Carbon	Biogeochemistry	Carbon fixation	WL	Wood-Ljungdahl pathway	cdhE, acsC	acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit gamma [EC:2.1.1.245 1.2.7.4]	yes	A	CO2	NiCu, Ni	K00197
+Carbon	Biogeochemistry	Carbon fixation	WL	Wood-Ljungdahl pathway	cooS, acsA	anaerobic carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4]	yes	A	CO2	NiCu, Ni	K00198
+Carbon	Biogeochemistry	Carbon fixation	WL	Wood-Ljungdahl pathway	fdhA	formate dehydrogenase (NADP+) alpha subunit [EC:1.17.1.10]	yes	D	Hydrogen/CO2	Mo, W	K05299
+Carbon	Biogeochemistry	Carbon fixation	WL	Wood-Ljungdahl pathway	fdhB	formate dehydrogenase (NADP+) beta subunit [EC:1.17.1.10]	yes	D	Hydrogen/CO2	Mo, W	K15022
+Carbon	Biogeochemistry	Carbon monoxide	Carbon monoxide oxidation	Oxidation of CO to CO2	coxL	aerobic carbon-monoxide dehydrogenase	yes	D	CO	CuMo	K03520
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	hoxHFUY	NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	yes	D	Hydrogen	Ni	K00436
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	hydB	[NiFe] hydrogenase large subunit [EC:1.12.2.1]	yes	D	Hydrogen	Ni	K00437
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	frhA	coenzyme F420 hydrogenase subunit beta [EC:1.12.98.1]	yes	D	Hydrogen	Ni	K00441
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	hydB	quinone-reactive Ni/Fe-hydrogenase large subunit [EC:1.12.5.1]	yes	D	Hydrogen	Ni	K05922
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	hydA	quinone-reactive Ni/Fe-hydrogenase small subunit [EC:1.12.5.1]	yes	D	Hydrogen	Ni	K05927
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	hyaA, hybO	hydrogenase small subunit [EC:1.12.99.6]	yes	D	Hydrogen	Ni	K06282
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	echB	ech hydrogenase subunit B	yes	D	Hydrogen	Ni	K14087
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	echE	ech hydrogenase subunit E	yes	D	Hydrogen	Ni	K14090
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	ehaO	energy-converting hydrogenase A subunit M	yes	D	Hydrogen	Ni	K14106
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	ehbH	energy-converting hydrogenase B subunit H	yes	D	Hydrogen	Ni	K14117
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	mvhA, vhuA, vhcA	F420-non-reducing hydrogenase large subunit [EC:1.12.99.- 1.8.98.5]	yes	D	Hydrogen	Ni	K14126
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	mvhD, vhuD, vhcD	F420-non-reducing hydrogenase iron-sulfur subunit [EC:1.12.99.- 1.8.98.5 1.8.98.6]	yes	D	Hydrogen	Ni	K14127
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	mvhG, vhuG, vhcG	F420-non-reducing hydrogenase small subunit [EC:1.12.99.- 1.8.98.5]	yes	D	Hydrogen	Ni	K14128
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	HycE	NiFe-hydrogenase diaphorase	yes	D	Hydrogen	Ni	K18005
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	HycE	NiFe-hydrogenase diaphorase	yes	D	Hydrogen	Ni	K18006
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	HycE	NiFe-hydrogenase diaphorase	yes	D	Hydrogen	Ni	K18007
+Hydrogen	Biogeochemistry	Hydrogen	HydOx	Hydrogen oxidation	mbhLJK	membrane-bound hydrogenase	yes	D	Hydrogen	Ni	K18016
+Iron	Biogeochemistry	Iron	FeOx	Iron Oxidation	fcr	ferric-chelate reductase	yes	D	Iron	Fe	K00521
+Iron	Biogeochemistry	Iron	FeOx	Iron Oxidation	fth1	ferritin heavy chain	yes	D	Iron	Fe	K00522
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox - pathway 1,2	hzsA	Hydrazine synthase subunit A [EC 1.7.2.7]	yes	A	Hydrazine	Fe	K20932
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox - pathway 1,2	hzsB	hydrazine synthase subunit B [EC 1.7.2.7]	yes	A	Hydrazine	Fe	K20933
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox - pathway 1,2	hzsC	hydrazine synthase subunit C [EC:1.7.2.7]	yes	A	Hydrazine	Fe	K20934
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox, hydrazine -> nitrogen (hdh) - pathway 2	hdh	hydrazine dehydrogenase [EC:1.7.2.8]	yes	D	Hydrazine	Fe	K20935
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox, nitrite -> nitrate (nxrAB) - pathway 2	narG, narZ, nxrA	nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-]	yes	D	Nitrite	Mo	K00370
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox, nitrite -> nitrate (nxrAB) - pathway 2	narH, narY, nxrB	nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]	yes	D	Nitrite	Fe	K00371
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox, nitrite -> nitric oxide (nirK or nirS) - pathway 1,2	nirK	nitrite reductase (NO-forming) [EC:1.7.2.1]	yes	A	Nitrite	Cu	K00368
+Nitrogen	Biogeochemistry	Nitrogen	Anammox	Anammox, nitrite -> nitric oxide (nirK or nirS)  - pathway 1,2	nirS	nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1]	yes	A	Nitrite	Fe	K15864
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Dissimilatory nitrate reduction, nitrate -> nitrite (narGHI or napAB)	narH, narY, nxrB	nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]	yes	A	Nitrate	Fe	K00371
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Dissimilatory nitrate reduction, nitrate -> nitrite (narGHI or napAB)	napA	nitrate reductase (cytochrome) [EC:1.9.6.1]	yes	A	Nitrate	Mo	K02567
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Dissimilatory nitrate reduction, nitrate -> nitrite (narGHI or napAB)	napB	nitrate reductase (cytochrome), electron transfer subunit	yes	A	Nitrate	Mo	K02568
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Denitrification, nitric oxide -> nitrous oxide (norBC)	norC	nitric oxide reductase subunit C	yes	A	Nitric oxide	Fe	K02305
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Denitrification, nitric oxide -> nitrous oxide (norBC)	norB	nitric oxide reductase subunit B [EC:1.7.2.5]	yes	A	Nitric oxide	Fe	K04561
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Dissimilatory nitrate reduction, nitrite -> ammonia (nirBD or nrfAH)	nirB	nitrite reductase (NADH) large subunit [EC:1.7.1.15]	yes	A	Nitrite	Fe	K00362
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Dissimilatory nitrate reduction, nitrite -> ammonia (nirBD or nrfAH)	nirD	nitrite reductase (NADH) small subunit [EC:1.7.1.15]	yes	A	Nitrite	Fe	K00363
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Denitrification, nitrite -> nitric oxide (nirK or nirS)	nirK	nitrite reductase (NO-forming) [EC:1.7.2.1]	yes	A	Nitrite	Cu	K00368
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Dissimilatory nitrate reduction, nitrite -> ammonia (nirBD or nrfAH)	nrfA	nitrite reductase (cytochrome c-552) [EC:1.7.2.2]	yes	A	Nitrite	Cu	K03385
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Nitrite reduction	nrfD	cytochrome c nitrite reductase, NrfD subunit [EC:1.7.2.2]	yes	A	Nitrite	Cu	K04015
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Denitrification, nitrite -> nitric oxide (nirK or nirS)	nirS	nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1]	yes	A	Nitrite	Fe	K15864
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Dissimilatory nitrate reduction, nitrite -> ammonia (nirBD or nrfAH)	nrfH	cytochrome c nitrite reductase small subunit	yes	A	Nitrite	Fe	K15876
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Nitrite reduction	NIT-6	nitrite reductase (NAD(P)H) [EC:1.7.1.4]	yes	A	Nitrite	Fe	K17877
+Nitrogen	Biogeochemistry	Nitrogen	Denitrification	Denitrification, nitrous oxide -> nitrogen (nosZ)	nosZ	nitrous-oxide reductase [EC:1.7.2.4]	yes	A	Nitrous oxide	Cu	K00376
+Nitrogen	Biogeochemistry	Nitrogen	Nitrification	Nitrification, ammonia -> hydroxylamine (amoABC)	pmoA-amoA	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	yes	D	Ammonia/Methane	Cu	K10944
+Nitrogen	Biogeochemistry	Nitrogen	Nitrification	Nitrification, ammonia -> hydroxylamine (amoABC)	pmoB-amoB	methane/ammonia monooxygenase subunit B	yes	D	Ammonia/Methane	Cu	K10945
+Nitrogen	Biogeochemistry	Nitrogen	Nitrification	Nitrification, ammonia -> hydroxylamine (amoABC)	pmoC-amoC	methane/ammonia monooxygenase subunit C	yes	D	Ammonia/Methane	Cu	K10946
+Nitrogen	Biogeochemistry	Nitrogen	Nitrification	Nitrification, hydroxylamine -> nitrite (hao)	hao	hydroxylamine dehydrogenase [EC:1.7.2.6]	yes	D	Hydroxylamine	Fe	K10535
+Nitrogen	Biogeochemistry	Nitrogen	Nitrification	Nitrification, nitrite -> nitrate (nxrAB)	narG, narZ, nxrA	nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-]	yes	D	Nitrite	Mo	K00370
+Nitrogen	Biogeochemistry	Nitrogen	Nitrification	Nitrification, nitrite -> nitrate (nxrAB)	narH, narY, nxrB	nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]	yes	D	Nitrite	Mo	K00371
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Oxidation of pyruvate coupled to oxidation of oxygen	poxL	pyruvate oxidase [EC:1.2.3.3]	yes	A	Lactate	Mg	K00158
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, cbb3-type	ccoN	cytochrome c oxidase cbb3-type subunit I	yes	A	Oxygen	Cu	K00404
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, cbb3-type	ccoO	cytochrome c oxidase cbb3-type subunit II	yes	A	Oxygen	Cu	K00405
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, cbb3-type	ccoP	cytochrome c oxidase cbb3-type subunit III	yes	A	Oxygen	Cu	K00406
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, cbb3-type	ccoQ	cytochrome c oxidase cbb3-type subunit IV	yes	A	Oxygen	Cu	K00407
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	fbcH	ubiquinol-cytochrome c reductase cytochrome b/c1 subunit	yes	A	Oxygen	Fe	K00410
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	UQCRFS1, RIP1, petA	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]	yes	A	Oxygen	Fe	K00411
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	CYTB, petB	ubiquinol-cytochrome c reductase cytochrome b subunit	yes	A	Oxygen	Fe	K00412
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	CYC1, CYT1, petC	ubiquinol-cytochrome c reductase cytochrome c1 subunit	yes	A	Oxygen	Fe	K00413
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	QCR1, UQCRC1	ubiquinol-cytochrome c reductase core subunit 1	yes	A	Oxygen	Fe	K00414
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	QCR2, UQCRC2	ubiquinol-cytochrome c reductase core subunit 2	yes	A	Oxygen	Fe	K00415
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	QCR6, UQCRH	ubiquinol-cytochrome c reductase subunit 6	yes	A	Oxygen	Fe	K00416
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	QCR7, UQCRB	ubiquinol-cytochrome c reductase subunit 7	yes	A	Oxygen	Fe	K00417
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bc1 complex	QCR8, UQCRQ	ubiquinol-cytochrome c reductase subunit 8	yes	A	Oxygen	Fe	K00418
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bd ubiquinol oxidase	cydX	cytochrome bd-I ubiquinol oxidase subunit X	yes	A	Oxygen	Fe	K00424
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bd ubiquinol oxidase	cydA	cytochrome bd ubiquinol oxidase subunit I	yes	A	Oxygen	Fe	K00425
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome bd ubiquinol oxidase	cydB	cytochrome bd ubiquinol oxidase subunit II	yes	A	Oxygen	Fe	K00426
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	cyoE	heme o synthase [EC:2.5.1.141]	yes	A	Oxygen	Fe	K02257
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, prokaryotes	coxA, ctaD	cytochrome c oxidase subunit I [EC:1.9.3.1]	yes	A	Oxygen	Cu	K02274
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, prokaryotes	coxB, ctaC	cytochrome c oxidase subunit II [EC:1.9.3.1]	yes	A	Oxygen	Cu	K02275
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, prokaryotes	coxC, ctaE	cytochrome c oxidase subunit III [EC:1.9.3.1]	yes	A	Oxygen	Cu	K02276
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, prokaryotes	coxD, ctaF	cytochrome c oxidase subunit IV [EC:1.9.3.1] (non-essential)	yes	A	Oxygen	Cu	K02277
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome o ubiquinol oxidase	cyoA	cytochrome o ubiquinol oxidase subunit II [EC:7.1.1.3]	yes	A	Oxygen	Cu	K02297
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome o ubiquinol oxidase	cyoB	cytochrome o ubiquinol oxidase subunit I [EC:7.1.1.3]	yes	A	Oxygen	Cu	K02298
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome o ubiquinol oxidase	cyoC	cytochrome o ubiquinol oxidase subunit III	yes	A	Oxygen	Cu	K02299
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome o ubiquinol oxidase	cyoD	cytochrome o ubiquinol oxidase subunit IV	yes	A	Oxygen	Cu	K02300
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome aa3-600 menaquinol oxidase	qoxA	cytochrome aa3-600 menaquinol oxidase subunit II [EC:7.1.1.5]	yes	A	Oxygen	Cu	K02826
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome aa3-600 menaquinol oxidase	qoxB	cytochrome aa3-600 menaquinol oxidase subunit I [EC:7.1.1.5]	yes	A	Oxygen	Cu	K02827
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome aa3-600 menaquinol oxidase	qoxC	cytochrome aa3-600 menaquinol oxidase subunit III [EC:7.1.1.5]	yes	A	Oxygen	Cu	K02828
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome aa3-600 menaquinol oxidase	qoxD	cytochrome aa3-600 menaquinol oxidase subunit IV [EC:7.1.1.5]	yes	A	Oxygen	Cu	K02829
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, prokaryotes	coxAC	cytochrome c oxidase subunit I+III [EC:1.9.3.1]	yes	A	Oxygen	Cu	K15408
+Oxygen	Biogeochemistry	Oxygen respiration	Oxygen respiration	Cytochrome c oxidase, cbb3-type	ccoNO	cytochrome c oxidase cbb3-type subunit I/II (ccoNO can replace the combination of ccoN and ccoO)	yes	A	Oxygen	Cu	K15862
+Photosynthesis	Biogeochemistry	Photosystem	Oxygenic photosynthesis	Photosystem II (psbABCDEF)	psbA	photosystem II P680 reaction center D1 protein	yes	D	Water	Mo	K02703
+Sulfur	Biogeochemistry	Sulfur	DMSORed	DMSO reduction, DMSO -> DMS (dms or dorA)	dmsB	dimethyl sulfoxide reductase iron-sulfur subunit	yes	A	DMSO	Mo	K00184
+Sulfur	Biogeochemistry	Sulfur	DMSORed	DMSO reduction, DMSO -> DMS (dms or dorA)	dmsC	dimethyl sulfoxide reductase membrane subunit	yes	A	DMSO	Mo	K00185
+Sulfur	Biogeochemistry	Sulfur	DMSORed	DMSO reduction, DMSO -> DMS (dms or dorA)	dmsA	anaerobic dimethyl sulfoxide reductase subunit A [EC:1.8.5.3]	yes	A	DMSO	Mo	K07306
+Sulfur	Biogeochemistry	Sulfur	DMSORed	DMSO reduction, DMSO -> DMS (dms or dorA)	dmsB	anaerobic dimethyl sulfoxide reductase subunit B	yes	A	DMSO	Mo	K07307
+Sulfur	Biogeochemistry	Sulfur	DMSORed	DMSO reduction, DMSO -> DMS (dms or dorA)	dmsC	anaerobic dimethyl sulfoxide reductase subunit C	yes	A	DMSO	Mo	K07308
+Sulfur	Biogeochemistry	Sulfur	DMSOx	DMS oxidation, DMS -> DMSO (ddhABC or tmm)	ddhB	dimethylsulfide dehydrogenase subunit beta	yes	D	DMS	Fe	K16965
+Sulfur	Biogeochemistry	Sulfur	DMSOx	DMS oxidation, DMS -> DMSO (ddhABC or tmm)	tmm	trimethylamine monooxygenase [EC:1.14.13.148]	yes	D	DMS	//	K18277
+Sulfur	Biogeochemistry	Sulfur	SulfateRed	Dissimilatory sulfate reduction, sulfate -> sulfite (reversible) (sat and aprAB)	aprA	adenylylsulfate reductase, subunit A [EC:1.8.99.2]	yes	A	Sulfate	//	K00394
+Sulfur	Biogeochemistry	Sulfur	SulfateRed	Dissimilatory sulfate reduction, sulfate -> sulfite (reversible) (sat and aprAB)	aprB	adenylylsulfate reductase, subunit B [EC:1.8.99.2]	yes	A	Sulfate	//	K00395
+Sulfur	Biogeochemistry	Sulfur	SulfateRed	Dissimilatory sulfate reduction, sulfite -> sulfide (reversible) (dsrAB)	dsrA	dissimilatory sulfite reductase alpha subunit [EC:1.8.99.5]	yes	A	Sulfate	Fe	K11180
+Sulfur	Biogeochemistry	Sulfur	SulfateRed	Dissimilatory sulfate reduction, sulfite -> sulfide (reversible) (dsrAB)	dsrB	dissimilatory sulfite reductase beta subunit [EC:1.8.99.5]	yes	A	Sulfate	Fe	K11181
+Sulfur	Biogeochemistry	Sulfur	SulfateRed	Dissimilatory sulfate reduction, sulfite -> sulfide (reversible) (dsrAB)	dsrC	dissimilatory sulfite reductase M subunit [EC:1.8.5.10]	yes	A	Sulfate	Fe	K27187
+Sulfur	Biogeochemistry	Sulfur	SulfideOx	Sulfite oxidation, sulfite -> sulfate (sorB, SUOX, soeABC)	sorA	sulfite dehydrogenase (cytochrome C) [EC:1.8.2.1]	yes	D	Sulfide	Mo	K05301
+Sulfur	Biogeochemistry	Sulfur	SulfideOx	Sulfide oxidation	sqr	sulfide:quinone oxidoreductase [EC:1.8.5.4]	yes	D	Sulfide	//	K17218
+Sulfur	Biogeochemistry	Sulfur	SulfideOx	Sulfide oxidation, sulfide -> sulfur (fccAB)	fccA	cytochrome subunit of sulfide dehydrogenase	yes	D	Sulfide	Fe	K17230
+Sulfur	Biogeochemistry	Sulfur	SulfideOx	Sulfhydrogenase, (sulfide)n -> (sulfide)n-1	hydA	sulfhydrogenase subunit alpha	yes	D	Sulfide	Ni	K17993
+Sulfur	Biogeochemistry	Sulfur	SulfideOx	Sulfhydrogenase, (sulfide)n -> (sulfide)n-1	hydB	sulfhydrogenase subunit beta (sulfur reductase)	yes	D	Sulfide	Fe	K17996
+Sulfur	Biogeochemistry	Sulfur	SulfiteOx	Sulfite oxidation, sulfite -> sulfate (sorB, SUOX, soeABC)	SUOX	sulfite oxidase [EC:1.8.3.1]	yes	D	Sulfite	Mo	K00387
+Sulfur	Biogeochemistry	Sulfur	SulfiteOx	Sulfite oxidation, sulfite -> sulfate (sorB, SUOX, soeABC)	soeA	sulfite dehydrogenase (quinone) subunit SoeA [EC:1.8.5.6]	yes	D	Sulfite	Mo	K21307
+Sulfur	Biogeochemistry	Sulfur	SulfiteOx	Sulfite oxidation, sulfite -> sulfate (sorB, SUOX, soeABC)	soeB	sulfite dehydrogenase (quinone) subunit SoeB	yes	D	Sulfite	Fe	K21308
+Sulfur	Biogeochemistry	Sulfur	SulfiteOx	Sulfite oxidation, sulfite -> sulfate (sorB, SUOX, soeABC)	soeC	sulfite dehydrogenase (quinone) subunit SoeC	yes	D	Sulfite	//	K21309
+Sulfur	Biogeochemistry	Sulfur	SulfiteRed	Sulfite reduction	asrC	anaerobic sulfite reductase subunit C	yes	A	Sulfite	Fe	K00385
+Sulfur	Biogeochemistry	Sulfur	SulfiteRed	Sulfite reduction	asrA	anaerobic sulfite reductase subunit A	yes	A	Sulfite	Fe	K16950
+Sulfur	Biogeochemistry	Sulfur	SulfiteRed	Sulfite reduction	asrB	anaerobic sulfite reductase subunit B	yes	A	Sulfite	Fe	K16951
+Sulfur	Biogeochemistry	Sulfur	SulfurOx	Sulfur disproportionation, sulfur -> sulfide & sulfite	sor	sulfur oxygenase/reductase [EC:1.13.11.55]	yes	A,D	Sulfur	Fe	K16952
+Sulfur	Biogeochemistry	Sulfur	SulfurOx	Sulfur oxidation	sdo	sulfur dioxygenase [EC:1.13.11.18]	yes	D	Sulfur	Fe	K17725
+Sulfur	Biogeochemistry	Sulfur	SulfurRed	Sulfur reduction, sulfur -> sulfide (sreABC)	sreA	sulfur reductase molybdopterin subunit	yes	A	Sulfur	//	K17219
+Sulfur	Biogeochemistry	Sulfur	SulfurRed	Sulfur reduction, sulfur -> sulfide (sreABC)	sreB	sulfur reductase FeS subunit	yes	A	Sulfur	Fe	K17220
+Sulfur	Biogeochemistry	Sulfur	SulfurRed	Sulfur reduction, sulfur -> sulfide (sreABC)	sreC	sulfur reductase membrane anchor	yes	A	Sulfur	//	K17221
+Sulfur	Biogeochemistry	Sulfur	ThioDis	Thiosulfate disproportionation, thiosulfate -> sulfide & sulfite (phsABC)	PhsA/psrA	thiosulfate reductase / polysulfide reductase chain A [EC:1.8.5.5]	yes	A,D	Thiosulfate	Mo	K08352
+Sulfur	Biogeochemistry	Sulfur	ThioDis	Thiosulfate disproportionation, thiosulfate -> sulfide & sulfite (phsABC)	phsB	thiosulfate reductase electron transport protein	yes	A,D	Thiosulfate	Fe	K08353
+Sulfur	Biogeochemistry	Sulfur	ThioDis	Thiosulfate disproportionation, thiosulfate -> sulfide & sulfite (phsABC)	phsC	thiosulfate reductase cytochrome b subunit	yes	A,D	Thiosulfate	Fe	K08354
+Sulfur	Biogeochemistry	Sulfur	ThioOX	Alternative thiosulfate oxidation (doxAD)	doxA	thiosulfate dehydrogenase [quinone] small subunit [EC:1.8.5.2]	yes	D	Thiosulfate	Fe	K16936
+Sulfur	Biogeochemistry	Sulfur	ThioOX	Alternative thiosulfate oxidation (doxAD)	doxD	thiosulfate dehydrogenase [quinone] large subunit [EC:1.8.5.2]	yes	D	Thiosulfate	Fe	K16937
+Sulfur	Biogeochemistry	Sulfur	ThioOx	Thiosulfate oxidation by SOX complex, thiosulfate -> sulfate	soxC	sulfane dehydrogenase subunit SoxC	yes	D	Thiosulfate	MoCo	K17225
+Sulfur	Biogeochemistry	Sulfur	ThioOX	Alternative thiosulfate oxidation (tsdA)	tsdA	thiosulfate dehydrogenase [EC:1.8.2.2]	yes	D	Thiosulfate	Fe	K19713
+Sulfur	Biogeochemistry	Sulfur	ThioOx	Thiosulfate oxidation by SOX complex, thiosulfate -> sulfate	soxD	S-disulfanyl-L-cysteine oxidoreductase SoxD [EC:1.8.2.6]	yes	D	Thiosulfate	MoCo	K22622
